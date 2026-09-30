@@ -4,7 +4,7 @@
 
 🎀 Estudante•  • Sonhadora 🎀
 
-🌷 about me
+🌷 Sobre mim
 
 🎓 2º ano do Ensino Médio Técnico — CEPI Osvaldo
 
@@ -33,6 +33,6 @@ Ainda estou começando, mas cada projeto
 
 🌷 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚  ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚🌷
 
-Coding my way into the future... 💻✨
+Programando meu caminho para o futuro... 💻✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div>
