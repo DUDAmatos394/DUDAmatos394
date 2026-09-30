@@ -17,7 +17,7 @@ Ainda estou começando, mas cada projeto é uma nova descoberta. ✨
 
 🎀 currently learning
 <div align="center">
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=%3C+Hello%2C+World!+%2F%3E+%F0%9F%92%BB;Coding...+%E2%9C%A8;Aprendendo+tecnologia+%F0%9F%8C%B7;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%97" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=%3C+Sejam%2C+Bem-vindos!+%2F%3E+%F0%9F%92%BB;Coding...+%E2%9C%A8;Aprendendo+tecnologia+%F0%9F%8C%B7;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%97" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 
 </div>
