@@ -29,7 +29,7 @@ Ainda estou começando, mas cada projeto é uma nova descoberta. ✨
 
 </div>
 
-📂 Aqui você vai encontrar meus projetos, atividades e experiências durante minha jornada na programação.
+  📂 Aqui você vai encontrar meus projetos, atividades e experiências durante minha jornada na programação.
 
 
 🌷 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌷
