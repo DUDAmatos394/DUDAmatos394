@@ -1,8 +1,8 @@
 ## sobre mim :) 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Maria%20Eduarda&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-✦ ｡˚ 🌷 𝓱𝓮𝓵𝓵𝓸, 𝓲'𝓶 𝓜𝓪𝓻𝓲𝓪 𝓔𝓭𝓾𝓪𝓻𝓭𝓪 🌷 ˚｡ ✦
+✦ ｡˚ 🌷 oiiie , 𝓲'𝓶 𝓜𝓪𝓻𝓲𝓪 𝓔𝓭𝓾𝓪𝓻𝓭𝓪 🌷 ˚｡ ✦
 
-🎀 student • developer in progress • dreamer
+🎀 student •  • dreamer 🎀
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Aprendendo+programação+%E2%9C%A8;Criando+meus+primeiros+projetos+%F0%9F%92%BB;Construindo+meu+futuro+na+tecnologia+%F0%9F%8C%B7" /> </div>
 🌷 about me
@@ -24,10 +24,6 @@ Ainda estou começando, mas cada projeto é uma nova descoberta. ✨
 
 </div>
 
-🌐 Desenvolvimento Web
-💻 Programação
-🧠 Lógica de Programação
-🌐 Redes de Computadores
 
 🧸 my little projects
 ╭──────────────────────────────╮
