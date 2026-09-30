@@ -24,11 +24,13 @@ Código 💻 → Aprendizado 🧠 → Projetos ✨ → Evolução 🚀
 
 🛠️ Tecnologias
 <img src="https://img.shields.io/badge/HTML5-001F3F?style=for-the-badge&logo=html5&logoColor=00BFFF"> <img src="https://img.shields.io/badge/CSS3-003B5C?style=for-the-badge&logo=css3&logoColor=00BFFF"> <img src="https://img.shields.io/badge/JavaScript-0077B6?style=for-the-badge&logo=javascript&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Git-005F73?style=for-the-badge&logo=git&logoColor=FFFFFF">
+
 📫 Vamos conversar?
 <a href="mailto:SEU_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/SEU_USUARIO" target="_blank"> <img src="https://img.shields.io/badge/GitHub-001F3F?style=for-the-badge&logo=github&logoColor=white"> </a>
+
 📊 GitHub
 <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=001F3F&hide_border=true&border_radius=15" />
-💙 console.log("Até logo!");
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Obrigada+por+visitar+meu+perfil!+%F0%9F%92%99;See+you+soon...+%F0%9F%92%BB" /> <br>
 
 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙
