@@ -1,4 +1,4 @@
-## Hi there 👋
+## sobre mim :)👋
 👋 Oii, eu sou a Maria Eduarda!
 🎓 2º ano do Ensino Médio Técnico — CEPI Osvaldo
 💻 Estudante de Desenvolvimento de Sistemas
@@ -17,5 +17,6 @@ Você vai encontrar meus projetos, atividades e experimentos feitos durante minh
 ⭐ Seja bem-vindo ao meu cantinho no GitHub!
 
 💻 "Todo especialista já foi um iniciante."
+
 ⭐ Obrigado por visitar meu perfil!
 </div>
