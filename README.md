@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=120&section=header" />
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,50:0077B6,100:00BFFF&height=100&section=header&text=💙%20Maria%20Eduarda%20💙&fontSize=30&fontColor=FFFFFF&animation=fadeIn" />
 
 </div>
@@ -33,3 +37,7 @@ Código 💻 → Aprendizado 🧠 → Projetos ✨ → Evolução 🚀
 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=100&section=footer" /> </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=120&section=footer" />
+
+</div>
