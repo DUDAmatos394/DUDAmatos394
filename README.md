@@ -31,6 +31,6 @@ Ainda estou começando, mas cada projeto é uma nova descoberta. ✨
 
 🌷 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌷
 
-"Coding my way into the future..." 💻✨
+Coding my way into the future... 💻✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div>
