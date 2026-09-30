@@ -32,7 +32,7 @@ Ainda estou começando, mas cada projeto é uma nova descoberta. ✨
   📂 Aqui você vai encontrar meus projetos, atividades e experiências durante minha jornada na programação.
 
 
-🌷 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌷
+🌷 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚  ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚🌷
 
 Coding my way into the future... 💻✨
 
