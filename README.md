@@ -1,3 +1,11 @@
+<table>
+<tr>
+
+<td width="3%" bgcolor="#00BFFF"></td>
+
+<td width="94%">
+
+<div align="center">
 </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=180&section=header&text=Maria%20Eduarda&fontSize=45&fontColor=FFFFFF&animation=fadeIn" />
 💙 ✦ ｡˚ 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸! ｡˚ ✦ 💙
@@ -29,3 +37,13 @@ Código 💻 → Aprendizado 🧠 → Projetos ✨ → Evolução 🚀
 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=100&section=footer" /> </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!+%F0%9F%92%99;Coding...+%F0%9F%92%BB;Aprendendo+tecnologia+%E2%9C%A8">
+
+</div>
+
+</td>
+
+<td width="3%" bgcolor="#00BFFF"></td>
+
+</tr>
+</table>
