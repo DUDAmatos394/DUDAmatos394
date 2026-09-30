@@ -1,24 +1,51 @@
 ## sobre mim :) 
-👋 Oii, eu sou a Maria Eduarda!
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Maria%20Eduarda&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+✦ ｡˚ 🌷 𝓱𝓮𝓵𝓵𝓸, 𝓲'𝓶 𝓜𝓪𝓻𝓲𝓪 𝓔𝓭𝓾𝓪𝓻𝓭𝓪 🌷 ˚｡ ✦
+
+🎀 student • developer in progress • dreamer
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Aprendendo+programação+%E2%9C%A8;Criando+meus+primeiros+projetos+%F0%9F%92%BB;Construindo+meu+futuro+na+tecnologia+%F0%9F%8C%B7" /> </div>
+🌷 about me
+
 🎓 2º ano do Ensino Médio Técnico — CEPI Osvaldo
+💻 Desenvolvimento de Sistemas
+🌱 Aprendendo um pouquinho mais todos os dias.
 
-💻 Estudante de Desenvolvimento de Sistemas
+Gosto de tecnologia, programação e de transformar ideias em pequenos projetos.
+Ainda estou começando, mas cada projeto é uma nova descoberta. ✨
 
-🚀 Aprendendo, criando e descobrindo o mundo da tecnologia.
+🎀 currently learning
+<div align="center">
 
-💻 Atualmente estudando
-HTML CSS JavaScript Lógica Redes Desenvolvimento Web
 
-🌱 Um pouco sobre mim
-Sou uma estudante apaixonada por aprender coisas novas e transformar ideias em projetos.
-Ainda estou no começo da minha jornada, mas cada código é um novo passo. ✨
 
-📂 Por aqui...
-Você vai encontrar meus projetos, atividades e experimentos feitos durante minha caminhada na programação.
 
-⭐ Seja bem-vindo ao meu cantinho no GitHub!
 
-💻 "Todo especialista já foi um iniciante."
 
-⭐ Obrigado por visitar meu perfil!
 </div>
+
+🌐 Desenvolvimento Web
+💻 Programação
+🧠 Lógica de Programação
+🌐 Redes de Computadores
+
+🧸 my little projects
+╭──────────────────────────────╮
+│  🌷 estudando                │
+│  💻 codando                  │
+│  🎀 criando                  │
+│  ✨ evoluindo                │
+╰──────────────────────────────╯
+
+
+📂 Aqui você vai encontrar meus projetos, atividades e experiências durante minha jornada na programação.
+
+📊 github corner
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&hide_border=true&border_radius=15" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=rose_pine&hide_border=true&border_radius=15" /> </div>
+<div align="center">
+
+🌷 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌷
+
+"Coding my way into the future..." 💻✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div>
