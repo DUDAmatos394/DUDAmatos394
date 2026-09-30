@@ -23,16 +23,6 @@ Ainda estou começando, mas cada projeto é uma nova descoberta. ✨
 
 </div>
 
-
-🧸 my little projects
-╭──────────────────────────────╮
-│  🌷 estudando                │
-│  💻 codando                  │
-│  🎀 criando                  │
-│  ✨ evoluindo                │
-╰──────────────────────────────╯
-
-
 📂 Aqui você vai encontrar meus projetos, atividades e experiências durante minha jornada na programação.
 
 
