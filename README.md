@@ -16,15 +16,14 @@
 
 
 💻 Minha jornada
-
 Código 💻 → Aprendizado 🧠 → Projetos ✨ → Evolução 🚀
 
 📂 Aqui você vai encontrar meus projetos, atividades e experiências durante minha jornada na programação.
+
+
 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙
 
-📫 Vamos conversar?
-<a href="mailto:SEU_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/SEU_USUARIO" target="_blank"> <img src="https://img.shields.io/badge/GitHub-001F3F?style=for-the-badge&logo=github&logoColor=white"> </a>
-
+<a href="mailto:SEU_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"> 
 
 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙
 
