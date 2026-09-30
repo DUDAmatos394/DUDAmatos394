@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,50:0077B6,100:00BFFF&height=100&section=header&text=💙%20Maria%20Eduarda%20💙&fontSize=30&fontColor=FFFFFF&animation=fadeIn" />
+
+</div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=180&section=header&text=Maria%20Eduarda&fontSize=45&fontColor=FFFFFF&animation=fadeIn" />
 💙 ✦ ｡˚ 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸! ｡˚ ✦ 💙
 
