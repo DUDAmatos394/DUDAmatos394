@@ -7,7 +7,9 @@
 🌷 about me
 
 🎓 2º ano do Ensino Médio Técnico — CEPI Osvaldo
+
 💻 Desenvolvimento de Sistemas
+
 🌱 Aprendendo um pouquinho mais todos os dias.
 
 Gosto de tecnologia, programação e de transformar ideias em pequenos projetos.
