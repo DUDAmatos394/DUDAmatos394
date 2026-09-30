@@ -6,8 +6,8 @@
 <td width="94%">
 
 <div align="center">
-</div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=180&section=header&text=⋆｡°✩ 𝑴𝒂𝒓𝒊𝒂 %20 𝑬𝒅𝒖𝒂𝒓𝒅𝒂 ✩°｡⋆&fontSize=45&fontColor=FFFFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=180&section=header&text=𝓜𝓪𝓻𝓲𝓪%20𝓔𝓭𝓾𝓪𝓻𝓭𝓪&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontFamily=Pacifico" />
+
  💙 ✦ ｡˚ 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸! ｡˚ ✦ 💙
  
  💻 Estudante • • Sonhadora
