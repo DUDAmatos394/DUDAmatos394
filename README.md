@@ -12,8 +12,6 @@
 
 🌱 Aprendendo um pouquinho mais todos os dias.
 
-Gosto de tecnologia, programação e de 
-transformar ideias em pequenos projetos.
 Ainda estou começando, mas cada projeto
 é uma nova descoberta. ✨
 
