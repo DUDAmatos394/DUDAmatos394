@@ -7,14 +7,14 @@
 
 <div align="center">
 </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=180&section=header&text=Maria%20Eduarda&fontSize=45&fontColor=FFFFFF&animation=fadeIn" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00BFFF&height=180&section=header&text=⋆｡°✩ 𝑴𝒂𝒓𝒊𝒂 %20 𝑬𝒅𝒖𝒂𝒓𝒅𝒂 ✩°｡⋆&fontSize=45&fontColor=FFFFFF&animation=fadeIn" />
  💙 ✦ ｡˚ 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸! ｡˚ ✦ 💙
  
  💻 Estudante • • Sonhadora
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!+%F0%9F%92%99;Coding...+%F0%9F%92%BB;Aprendendo+tecnologia+%E2%9C%A8;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380">
 
-💙 Sobre mim
+💙 Sobre mim:
 
 🎓 2º ano do Ensino Médio Técnico — CEPI Osvaldo
 
