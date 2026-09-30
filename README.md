@@ -1,7 +1,9 @@
-## sobre mim :)👋
+## sobre mim :) 
 👋 Oii, eu sou a Maria Eduarda!
 🎓 2º ano do Ensino Médio Técnico — CEPI Osvaldo
+
 💻 Estudante de Desenvolvimento de Sistemas
+
 🚀 Aprendendo, criando e descobrindo o mundo da tecnologia.
 
 💻 Atualmente estudando
