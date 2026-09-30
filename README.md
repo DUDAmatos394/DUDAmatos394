@@ -24,7 +24,7 @@
  Ainda estou começando, mas cada projeto é uma nova descoberta.
 
 
-💻 Minha jornada
+
 Código 💻 → Aprendizado 🧠 → Projetos ✨ → Evolução 🚀
 
 📂 Aqui você vai encontrar meus projetos, atividades e experiências durante minha jornada na programação.
@@ -32,7 +32,7 @@ Código 💻 → Aprendizado 🧠 → Projetos ✨ → Evolução 🚀
 
 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙
 
-<a href="mailto:SEU_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"> 
+<a href="mailto:Senaidudamatos@gmail.com"> <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"> 
 
 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙 ˚₊‧꒰ა 💻 ໒꒱ ‧₊˚ 💙
 
