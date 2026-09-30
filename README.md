@@ -1,8 +1,8 @@
 ## sobre mim :) 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Maria%20Eduarda&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-✦ ｡˚ 🌷 oiiie , 𝓲'𝓶 𝓜𝓪𝓻𝓲𝓪 𝓔𝓭𝓾𝓪𝓻𝓭𝓪 🌷 ˚｡ ✦
+✦ ｡˚ 🌷 oiiie , me chamo 𝓜𝓪𝓻𝓲𝓪 𝓔𝓭𝓾𝓪𝓻𝓭𝓪 🌷 ˚｡ ✦
 
-🎀 student •  • dreamer 🎀
+🎀 Estudante•  • Sonhadora 🎀
 
 🌷 about me
 
