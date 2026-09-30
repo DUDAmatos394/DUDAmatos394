@@ -11,7 +11,6 @@
 💻 Desenvolvimento de Sistemas
 
 🌱 Aprendendo um pouquinho mais todos os dias.
-
 Ainda estou começando, mas cada projeto
 é uma nova descoberta. ✨
 
